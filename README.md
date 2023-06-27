@@ -1,2 +1,2 @@
-EPAM - [CRE] Introduction to java
-part: Version Control with GIT. Practical Tasks.
+EPAM - [CRE] Introduction to java.
+Part: Version Control with GIT. Practical Tasks.
